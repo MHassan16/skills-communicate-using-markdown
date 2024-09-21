@@ -7,3 +7,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` java
 String myVar = "Hello Word!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portolio
+- [ ] Introduce myself to the world
